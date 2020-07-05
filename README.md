@@ -1,3 +1,4 @@
-### Exercises
+## Exercises
 
-## Part 0 : 
+- [Part 0](Exercises/part0) 
+ 
