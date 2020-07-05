@@ -1,6 +1,3 @@
-# 1.1 - 1.2
-
-![](src/index.js)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
